@@ -8,7 +8,7 @@
 
 ## 무료 PDF 다운로드
 
-**[1권 PDF 다운로드 - 20260914.05](https://github.com/YoungsikMoon/secu-book/releases/download/20260914.05/%EC%8B%A4%EC%A0%84_%EC%9B%B9_%EB%B3%B4%EC%95%88_1%EA%B6%8C_20260914.05.pdf)**
+**[1권 PDF 다운로드 - 20260914.05](https://github.com/YoungsikMoon/secu-book/releases/download/20260914.05/web-security-vol1-20260914.05.pdf)**
 
 [최신 릴리즈](https://github.com/YoungsikMoon/secu-book/releases/latest)에서 파일과 변경 내용을 확인할 수 있습니다.
 
