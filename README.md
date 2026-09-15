@@ -8,11 +8,11 @@
 
 ## 무료 PDF 다운로드
 
-**[1권 PDF 다운로드 - 20260915.06](https://github.com/YoungsikMoon/secu-book/releases/download/20260915.06/web-security-vol1-20260915.06.pdf)**
+**[1권 PDF 다운로드 - 20260916.01](https://github.com/YoungsikMoon/secu-book/releases/download/20260916.01/web-security-vol1-20260916.01.pdf)**
 
 [최신 릴리즈](https://github.com/YoungsikMoon/secu-book/releases/latest)에서 파일과 변경 내용을 확인할 수 있습니다.
 
-- 현재 버전: `20260915.06`, 458쪽
+- 현재 버전: `20260916.01`, 460쪽
 - 수록 범위: 들어가며, 1~41장, 부록 A~E, 용어집
 - 저자: 문영식 / AI 집필·편집 보조: GPT-6 Astra Ultra
 
